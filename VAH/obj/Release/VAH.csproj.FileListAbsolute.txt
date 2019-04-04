@@ -1,0 +1,4 @@
+D:\Programs\VAH-master\VAH\obj\Release\VAH.Form1.resources
+D:\Programs\VAH-master\VAH\obj\Release\VAH.Properties.Resources.resources
+D:\Programs\VAH-master\VAH\obj\Release\VAH.csproj.GenerateResource.cache
+D:\Programs\VAH-master\VAH\obj\Release\VAH.csproj.CoreCompileInputs.cache
