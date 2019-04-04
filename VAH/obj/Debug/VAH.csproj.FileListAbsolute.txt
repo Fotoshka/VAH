@@ -69,3 +69,15 @@ C:\Users\Дмитрий\RiderProjects\chart\VAH\obj\Debug\VAH.csprojResolveAssem
 C:\Users\Дмитрий\RiderProjects\chart\VAH\obj\Debug\VAH.Form1.resources
 C:\Users\Дмитрий\RiderProjects\chart\VAH\obj\Debug\VAH.Properties.Resources.resources
 C:\Users\Дмитрий\RiderProjects\chart\VAH\obj\Debug\VAH.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\bin\Debug\VAH.exe.config
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\bin\Debug\VAH.exe
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\bin\Debug\VAH.pdb
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\bin\Debug\Tao.OpenGl.xml
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\obj\Debug\VAH.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\obj\Debug\VAH.Form1.resources
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\obj\Debug\VAH.Properties.Resources.resources
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\obj\Debug\VAH.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\obj\Debug\VAH.exe
+C:\Users\Дмитрий\RiderProjects\VAH\VAH\obj\Debug\VAH.pdb
